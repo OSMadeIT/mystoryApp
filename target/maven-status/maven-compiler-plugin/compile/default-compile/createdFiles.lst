@@ -1,0 +1,8 @@
+com/osmadeit/bean/GenreBean.class
+com/osmadeit/entities/Genres.class
+com/osmadeit/entities/Stories.class
+com/osmadeit/config/AppConfig.class
+com/osmadeit/entities/Stories_.class
+com/osmadeit/entities/Genres_.class
+com/osmadeit/bean/MyStoryBean.class
+com/osmadeit/rest/StoriesRest.class
